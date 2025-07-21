@@ -9,6 +9,7 @@ DefaultContentLanguage = "en"
   pagerSize = 3 # for blog page
 enableRobotsTXT = true
 
+
 [taxonomies]
   tag = "tags"
   category = "categories"
